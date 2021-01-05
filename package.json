@@ -5,7 +5,7 @@
   "homepage": "https://yaser-alazem.github.io/movies-series-info",
   "start": "node app.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
